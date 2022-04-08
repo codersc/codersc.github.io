@@ -18,6 +18,7 @@ In this course, students are required to build a modern computer from scratch us
 ![Simulating Xor gate](images/SimulatingXorGate.gif)
 ![Running a machine language program](images/RunningMLProg.gif)
 ![Running a virtual machine program](images/RunningVMProg.gif)
+![Assembler](images/Assembler.gif)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
