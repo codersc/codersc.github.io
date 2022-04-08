@@ -21,16 +21,6 @@ In this course, students are required to build a modern computer from scratch us
 ![Assembler](images/Assembler.gif)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 
 Ethics Papers
 -------------
