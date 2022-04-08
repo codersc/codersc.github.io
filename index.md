@@ -15,6 +15,7 @@ This app provides a convenient and simple way for users to manage their to-do li
 ### Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) Coursera
 
 In this course, students are required to build a modern computer from scratch using a software-based hardware simulator. It starts from elementary logic gates, and through six hands-on projects you create a general purpose computer. The certifacate of completion I recieved for the course can be viewed [here](https://www.coursera.org/account/accomplishments/verify/6PP5YFSUAKPD).
+![Simulating Xor Gate](SimulatingXorGate.gif)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
