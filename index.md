@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:kcholmes@csustudent.net) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+# ToDo App CSCI-325
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+  This app provides a convenient and simple way for users to manage their to-do list. It incorporates multiple technologies including Java, JavaFX, and FXML. It was built in a collaborative, team-based environment.
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
