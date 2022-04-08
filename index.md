@@ -9,7 +9,7 @@ Programming Projects
 ---
 # ToDo App CSCI-325
 
-  This app provides a convenient and simple way for users to manage their to-do list. It incorporates multiple technologies including Java, JavaFX, and FXML. It was built in a collaborative, team-based environment.
+This app provides a convenient and simple way for users to manage their to-do list. It incorporates multiple technologies including Java, JavaFX, and FXML. It was built in a collaborative, team-based environment.
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
