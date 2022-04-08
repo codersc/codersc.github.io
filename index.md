@@ -12,9 +12,9 @@ Programming Projects
 This app provides a convenient and simple way for users to manage their to-do list. It incorporates multiple technologies including Java, JavaFX, and FXML. It was built in a collaborative, team-based environment.
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) Coursera
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+In this course, students are required to build a modern computer from scratch using a software-based hardware simulator. It starts from elementary logic gates, and through six hands-on projects you create a general purpose computer. The certifacate of completion I recieved for the course can be viewed [here](https://www.coursera.org/account/accomplishments/verify/6PP5YFSUAKPD).
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
