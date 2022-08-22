@@ -49,7 +49,7 @@ In the future, I would like to join the Association of Christians in the Mathema
 
 **What are the ways you can use the skills you have learned in CS to serve your community? Be specific.**
 
-     There are many ways in which the skills I have learned in CS can be applied to serve my community. For example, Free Code Camp is a nonprofit with a mission to educate in many disciplines such as responsive web design, quality assurance, and data analysis. Their project has benefited from many contributions, including mine. 
+There are many ways in which the skills I have learned in CS can be applied to serve my community. For example, Free Code Camp is a nonprofit with a mission to educate in many disciplines such as responsive web design, quality assurance, and data analysis. Their project has benefited from many contributions, including mine. 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
