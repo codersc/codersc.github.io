@@ -17,7 +17,15 @@ This app provides a convenient and simple way for users to manage their to-do li
 
 This app calculates a monthly mortgage payment based on the amount to be loaned and the term of the mortgage in years.
 
+![App screenshot](images/MortgageCalcApp.png)
+
 https://codepen.io/sc_dev/pen/MWvXbWW
+
+### ToDo Web App CSCI-301
+
+Web app to-do list written in JQuery, HTML, and CSS.
+
+![App screenshot](images/ToDoApp1.png)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
