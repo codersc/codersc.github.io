@@ -51,7 +51,7 @@ In the future, I would like to join the Association of Christians in the Mathema
 
 There are many ways in which the skills I have learned in CS can be applied to serve my community. For example, Free Code Camp is a nonprofit with a mission to educate in many disciplines such as responsive web design, quality assurance, and data analysis. Their project has benefited from many contributions, including mine.
 
-**Ethical Issues in Modern Computing
+### Ethical Issues in Modern Computing
 
 There are many legal, ethical, and moral issues in computing. Since the rise of cheap and reliable computing power, many industries have been permanently disrupted and changed forever. The internet alone has revolutionized mass and personal communication in addition to commerce, among other things. Databases have allowed businesses to analyze metrics with scientific precision. This new phenomenon seems to eventually reach every industry and is a growing industry itself.
 	
