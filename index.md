@@ -29,7 +29,7 @@ This app calculates a monthly mortgage payment based on the amount to be loaned 
 https://codepen.io/sc_dev/pen/MWvXbWW
 
 --
-### [To-do App | CSCI 301](project1)
+### [To-do App | CSCI 301](project2)
 ---
 
 Web app to-do list written in JQuery, HTML, and CSS.
