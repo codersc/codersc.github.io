@@ -3,7 +3,7 @@
 Project 1 Title
 ===============
 
--   **Class:** Mortgage Calculator
+-   **Class:** Survery of Scripting Languages
 -   **Language(s):** Javascript, CSS, HTML
 
 ## Project description
@@ -17,10 +17,10 @@ Fig 1. The launch screen
 
 
 ![screenshot](images/proj_1_screenshot_2.png)  
-Fig 1. The launch screen
+Fig 2. Inputting data
 
 
 ![screenshot](images/proj_1_screenshot_3.png)  
-Fig 1. The launch screen
+Fig 1. Calculated output
 
 [Back to Portfolio](./)
