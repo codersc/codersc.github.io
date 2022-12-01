@@ -19,4 +19,8 @@ Fig 1. The launch screen
 ![screenshot](images/proj_1_screenshot_2.png)  
 Fig 1. The launch screen
 
+
+![screenshot](images/proj_1_screenshot_3.png)  
+Fig 1. The launch screen
+
 [Back to Portfolio](./)
