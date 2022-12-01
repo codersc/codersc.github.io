@@ -1,6 +1,13 @@
 Portfolio
 =========
 
+Kevin Holmes
+
+![csu portfolio pic](images/csu_portfolio_pic.png)
+
+CSCI 496: Senior Portfolio
+In partial fulfillment of the requirements for the degree of Bachelor of Technology: Computer Programming 
+
 Programming Projects
 --------------------
 
