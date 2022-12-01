@@ -19,7 +19,7 @@ Programming Projects
 This app provides a convenient and simple way for users to manage their to-do list. It incorporates multiple technologies including Java, JavaFX, and FXML. It was built in a collaborative, team-based environment.
 
 --
-### Mortgage Calculator CSCI-301
+### [Mortgage Calculator | CSCI 301](project1)
 ---
 
 This app calculates a monthly mortgage payment based on the amount to be loaned and the term of the mortgage in years.
