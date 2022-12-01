@@ -1,6 +1,10 @@
 Portfolio
 =========
 
+Kevin Holmes
+
+![csu portfolio pic](images/csu_portfolio_pic.png)
+
 Programming Projects
 --------------------
 
