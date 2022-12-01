@@ -21,6 +21,6 @@ Fig 2. Inputting data
 
 
 ![screenshot](images/proj_1_screenshot_3.png)  
-Fig 1. Calculated output
+Fig 3. Calculated output
 
 [Back to Portfolio](./)
