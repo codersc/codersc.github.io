@@ -34,8 +34,11 @@ Ethics Papers
 
 ### [Ethical Issues in Modern Computing](/pdf/ethics_essay.pdf)
 
--   **Class:** CSCI 301 - Survey of Scripting Languages 
--   **Grade:** A
+-   **Class:** CSCI 496 - Senior Portfolio
+
+### [Reflections Essay](/pdf/reflections_essay.pdf)
+
+-   **Class:** CSCI 496 - Senior Portfolio
 
 ---
 	
